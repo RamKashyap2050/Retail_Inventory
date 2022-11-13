@@ -1,6 +1,6 @@
 Retail Inventory
 
-2130359 - Chaturvedula Rama Narasimha Kasyap
+2130359 - Chaturvedula Rama Narasimha Kasyap<br>
 2130295 - Praneel Reddy Dharpally
         - Deepak Kalagara
 
