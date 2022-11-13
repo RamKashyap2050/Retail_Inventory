@@ -1,14 +1,14 @@
 Retail Inventory
 
 2130359 - Chaturvedula Rama Narasimha Kasyap<br>
-2130295 - Praneel Reddy Dharpally
+2130295 - Praneel Reddy Dharpally<br>
         - Deepak Kalagara
 
 The main purpose of this project is to help the retail owners to maintain an E-inventory for their products
 
 Software Stack :- React, Bootstrap, MySQL, NodeJS, expressJS
 
-Frontend :- 
+#####Frontend :- 
 
 Let's Look at Components
 
