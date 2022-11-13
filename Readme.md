@@ -8,7 +8,9 @@ The main purpose of this project is to help the retail owners to maintain an E-i
 
 Software Stack :- React, Bootstrap, MySQL, NodeJS, expressJS
 
-##Frontend :- 
+<span style="font-size:- large">
+Frontend :-
+</span> 
 
 Let's Look at Components
 
